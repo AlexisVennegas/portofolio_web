@@ -1,0 +1,29 @@
+[
+    {
+        "className": "info-1",
+        "title": "skills",
+        "id": 1
+    },
+    {
+        "className": "info-2",
+        "title": "Projects",
+        "id": 2
+
+    },
+    {
+        "className": "info-3",
+        "title": "Contact",
+        "id": 3
+    },
+    {
+        "className": "info-4",
+        "title": "Technologies",
+        "id": 4
+
+    },
+    {
+        "className": "info-5",
+        "title": "Experience",
+        "id": 5
+    }
+]
