@@ -1,4 +1,4 @@
-# Portfolio de [Tu Nombre]
+# Mi nuevo portfolio
 
 ## Descripción
 Este es mi portfolio personal, desarrollado utilizando React. En este proyecto, presento información sobre mí y destaco diferentes áreas de interés a través de secciones interactivas.
